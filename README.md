@@ -21,6 +21,7 @@ Database: MySQL
 Server: Apache Tomcat / XAMPP
 
 🧪 How to Run the Project
+
 For Java (Servlet/JSP):
 
 Install Apache Tomcat
@@ -34,6 +35,7 @@ Run on server (Tomcat)
 Open browser:
 
 http://localhost:8080/BloodDonationSystem
+
 For PHP:
 
 Install XAMPP/WAMP
@@ -45,6 +47,7 @@ Import database in phpMyAdmin
 Run:
 
 http://localhost/project-folder
+
 🗃️ Database Structure (Sample Tables)
 Donor Table
 
