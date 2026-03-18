@@ -25,11 +25,8 @@ Server: Apache Tomcat / XAMPP
 For Java (Servlet/JSP):
 
 Install Apache Tomcat
-
 Import project into Eclipse / IntelliJ
-
 Configure MySQL database
-
 Run on server (Tomcat)
 
 Open browser:
